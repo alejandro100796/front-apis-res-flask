@@ -3,7 +3,7 @@ module.exports = {
     "vuetify"
   ],
   lintOnSave: false,
-  publicPath: '/productos',  
+  // publicPath: '/productos',  
   productionSourceMap: false,
   devServer: {
     // proxy: 'https://api-rest-full-emad.herokuapp.com',
