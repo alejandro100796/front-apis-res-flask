@@ -1,0 +1,69 @@
+{
+  "name": "scl.front",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@mdi/font": "^5.8.55",
+    "aes-js": "^3.1.2",
+    "axios": "^0.19.2",
+    "canvas": "^2.6.1",
+    "core-js": "^3.6.5",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.26",
+    "node-pre-gyp": "^0.15.0",
+    "pdfjs-dist": "^2.4.456",
+    "pidcrypt": "0.0.31",
+    "save": "^2.4.0",
+    "save-as": "^0.1.8",
+    "tiff.js": "^1.0.0",
+    "vue": "^2.6.12",
+    "vue-codemirror": "^4.0.6",
+    "vue-image-viewer": "^1.1.2",
+    "vue-json-excel": "^0.2.98",
+    "vue-moment": "^4.0.0",
+    "vue-router": "^3.4.8",
+    "vue-snotify": "^3.2.1",
+    "vue-the-mask": "^0.11.1",
+    "vuedraggable": "^2.24.3",
+    "vuetify": "^2.3.16",
+    "vuex": "^3.5.1",
+    "vuex-persist": "^2.3.0",
+    "xlsx": "^0.15.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.5.8",
+    "@vue/cli-plugin-eslint": "^4.5.8",
+    "@vue/cli-plugin-router": "^4.5.8",
+    "@vue/cli-plugin-vuex": "^4.5.8",
+    "@vue/cli-service": "^4.5.8",
+    "node-sass": "^4.14.1",
+    "sass": "^1.27.1",
+    "sass-loader": "^8.0.0",
+    "vue-cli-plugin-vuetify": "^2.0.7",
+    "vue-template-compiler": "^2.6.12",
+    "vuetify-loader": "^1.6.0",
+    "vue-particles": "^1.0.9"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions"
+  ]
+}

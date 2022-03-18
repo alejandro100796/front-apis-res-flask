@@ -1,0 +1,330 @@
+.rosa{border: 2px solid pink}
+.azul{border: 2px solid blue}
+.rojo{border: 2px solid red}
+.morado {border: 2px solid purple}
+.verde{border: 2px solid green}
+.negro{border: 2px solid black}
+.naranja{border: 2px solid orange}
+.amarillo{border: 2px solid yellow}
+.gris{border: 2px solid darkgray}
+.cafe{border: 2px solid brown}
+
+.scl-no-padding{padding: 0px !important;}
+
+.up-border{
+    border-top: #6ead3b  5px solid !important;
+    border-left: white  0px solid !important;
+    border-right: white 0px solid !important;
+    border-bottom: white  0px solid !important;
+  }
+
+/**PALETA DE COLORES OFICIAL*/
+.baz-title-color{color: #6ead3b !important}
+.baz-background-1{background: #6ead3b !important}
+.baz-background-2{background: #e9f7df !important}
+.baz-text-strong-color{color: #333333 !important}
+.baz-text-color{color: #666666 !important}
+.baz-icon-color{color: #4975e0 !important}
+.baz-background-color{background: #18a21a !important}
+.baz-btn-color{background: #067206 !important}
+.baz-green-color{color: #1d912a !important}
+.baz-green-background{background: #1d912a !important}
+
+/**COLORES PROVISTOS POR UX*/
+.scl-title-form-color{color: #3DAE2B !important;}
+.scl-form-color{background: #3DAE2B !important;}
+.scl-text-form{color:#2A2A2B !important}
+.scl-text-form-dark{color:#4fad2f !important;}
+.scl-cancel-delete{background: #E63422 !important;}
+.scl-action-button{background: #1D912A !important;}
+.scl-textfiel-bgd{background: #F5F5F5 !important;}
+
+/**PALETA PRIMARIA*/
+.baz-cool-gray9                 {color: rgb(118, 118, 121) !important}
+.baz-cool-gray11                {color: rgb(84, 84, 89) !important}
+.baz-cool-gray9-background      {background: rgb(118, 118, 121) !important}
+.baz-cool-gray11-background     {background: rgb(84 , 85, 90) !important}
+.baz-pantone-green-1            {color: rgb(0 , 97, 66) !important}
+.baz-pantone-green-2            {color: rgb(79 , 173, 47) !important}
+.baz-pantone-green-1-background {background: rgb(0 , 97, 66) !important}
+.baz-pantone-green-2-background {background: #4fad2f !important}
+.baz-pantone-red-1              {color: rgb(182 , 40, 45) !important}
+.baz-pantone-red-2              {color: rgb(240 , 81, 39) !important}
+.baz-pantone-red-1-background   {background: rgb(182 , 40, 45) !important}
+.baz-pantone-red-2-background   {background: rgb(240 , 81, 39) !important}
+.captcha-color{background: rgb(48, 206, 48)}
+
+.baz-basic-border{border:1px solid #18a21a !important  }
+
+/**Colores neutros*/
+.baz-color-coolGray-11     {color:rgb(84,85,90) !important}
+.baz-color-coolGray-9      {color:rgb(119,119,122) !important}
+.baz-color-20-black        {color:rgb(209,210,212) !important}
+.baz-background-coolGray-11{background:rgb(84,85,90) !important}
+.baz-background-coolGray-9 {background:rgb(119,119,122) !important}
+.baz-background-20-black   {background:rgb(209,210,212) !important}
+
+/**Colores Calidos*/
+.baz-color-100-1815     {color:rgb(130,37,40) !important}
+.baz-color-75-1815      {color:rgb(167,92,88) !important}
+.baz-color-50-1815      {color:rgb(200,144,140) !important}
+.baz-color-25-1815      {color:rgb(230,198,196) !important}
+.baz-background-100-1815{background:rgb(130,37,40) !important}
+.baz-background-75-1815 {background:rgb(167,92,88) !important}
+.baz-background-50-1815 {background:rgb(200,144,140) !important}
+.baz-background-25-1815 {background:rgb(230,198,196) !important}
+
+.baz-color-100-1805     {color:rgb(182,40,45) !important}
+.baz-color-75-1805      {color:rgb(209,100,93) !important}
+.baz-color-50-1805      {color:rgb(231,152,143) !important}
+.baz-color-25-1805      {color:rgb(247,203,198) !important}
+.baz-background-100-1805{background:rgb(182,40,45) !important}
+.baz-background-75-1805 {background:rgb(209,100,93) !important}
+.baz-background-50-1805 {background:rgb(231,152,143) !important}
+.baz-background-25-1805 {background:rgb(247,203,198) !important}
+
+.baz-color-100-3556     {color:rgb(240,81,39) !important}
+.baz-color-75-3556      {color:rgb(244,126,81) !important}
+.baz-color-50-3556      {color:rgb(248,166,129) !important}
+.baz-color-25-3556      {color:rgb(252,208,185) !important}
+.baz-background-100-3556{background:rgb(240,81,39) !important}
+.baz-background-75-3556 {background:rgb(244,126,81) !important}
+.baz-background-50-3556 {background:rgb(248,166,129) !important}
+.baz-background-25-3556 {background:rgb(252,208,185) !important}
+
+.baz-color-100-1375     {color:rgb(255,157,27) !important}
+.baz-color-75-1375      {color:rgb(255,181,95) !important}
+.baz-color-50-1375      {color:rgb(255,206,148) !important}
+.baz-color-25-1375      {color:rgb(255,230,201) !important}
+.baz-background-100-1375{background:rgb(255,157,27) !important}
+.baz-background-75-1375 {background:rgb(255,181,95) !important}
+.baz-background-50-1375 {background:rgb(255,206,148) !important}
+.baz-background-25-1375 {background:rgb(255,230,201) !important}
+
+.baz-color-100-193     {color:rgb(200,13,58) !important}
+.baz-color-75-193      {color:rgb(223,95,103) !important}
+.baz-color-50-193      {color:rgb(240,150,151) !important}
+.baz-color-25-193      {color:rgb(252,202,202) !important}
+.baz-background-100-193{background:rgb(200,13,58) !important}
+.baz-background-75-193 {background:rgb(223,95,103) !important}
+.baz-background-50-193 {background:rgb(240,150,151) !important}
+.baz-background-25-193 {background:rgb(252,202,202) !important}
+
+/**Colores frios   baz-color/background-porcentaje%-id */
+.baz-white{color: #ffffff;}
+.baz-white-background{background: #ffffff;}
+.baz-color-100-3435     {color:rgb(20,70,52) !important}
+.baz-color-75-3435      {color:rgb(78,113,98) !important}
+.baz-color-50-3435      {color:rgb(135,158,147) !important}
+.baz-color-25-3435      {color:rgb(195,205,200) !important}
+.baz-background-100-3435{background:rgb(20,70,52) !important}
+.baz-background-75-3435 {background:rgb(78,113,98) !important}
+.baz-background-50-3435 {background:rgb(135,158,147) !important}
+.baz-background-25-3435 {background:rgb(195,205,200) !important}
+
+.baz-color-100-3425     {color:rgb(0,97,66) !important}
+.baz-color-75-3425      {color:rgb(66,135,109) !important}
+.baz-color-50-3425      {color:rgb(130,174,155) !important}
+.baz-color-25-3425      {color:rgb(193,214,204) !important}
+.baz-background-100-3425{background:rgb(0,97,66) !important}
+.baz-background-75-3425 {background:rgb(66,135,109) !important}
+.baz-background-50-3425 {background:rgb(130,174,155) !important}
+.baz-background-25-3425 {background:rgb(193,214,204) !important}
+
+.baz-color-100-361     {color:rgb(79,173,47) !important}
+.baz-color-75-361      {color:rgb(129,194,102) !important}
+.baz-color-50-361      {color:rgb(173,214,152) !important}
+.baz-color-25-361      {color:rgb(216,235,203) !important}
+.baz-background-100-361{background:rgb(79,173,47) !important}
+.baz-background-75-361 {background:rgb(129,194,102) !important}
+.baz-background-50-361 {background:rgb(173,214,152) !important}
+.baz-background-25-361 {background:rgb(216,235,203) !important}
+
+.baz-color-100-2285     {color:rgb(152,206,119) !important}
+.baz-color-75-2285      {color:rgb(178,216,151) !important}
+.baz-color-50-2285      {color:rgb(202,227,184) !important}
+.baz-color-25-2285      {color:rgb(227,240,217) !important}
+.baz-background-100-2285{background:rgb(152,206,119) !important}
+.baz-background-75-2285 {background:rgb(178,216,151) !important}
+.baz-background-50-2285 {background:rgb(202,227,184) !important}
+.baz-background-25-2285 {background:rgb(227,240,217) !important}
+
+.baz-color-100-2243     {color:rgb(0,158,127) !important}
+.baz-color-75-2243      {color:rgb(54,176,153) !important}
+.baz-color-50-2243      {color:rgb(135,198,182) !important}
+.baz-color-25-2243      {color:rgb(194,224,215) !important}
+.baz-background-100-2243{background:rgb(0,158,127) !important}
+.baz-background-75-2243 {background:rgb(54,176,153) !important}
+.baz-background-50-2243 {background:rgb(135,198,182) !important}
+.baz-background-25-2243 {background:rgb(194,224,215) !important;}
+
+/**Colores neutros*/
+/**VUETIFY COLORS THEME*/
+.baz-primary{background: #518b51 !important;}
+.baz-teal-accent-1{background: #A7FFEB !important;}
+.baz-teal-accent-2{background: #64FFDA !important;}
+.baz-teal-accent-3{background: #1DE9B6 !important;}
+.baz-teal-accent-4{background: #00BFA5 !important;}
+
+.baz-green{background:#4CAF50 !important;}
+.baz-green-lighten-5 {background:#E8F5E9 !important;}
+.baz-green-lighten-4{background:#C8E6C9 !important;}
+.baz-green-lighten-3{background:#A5D6A7 !important;}
+.baz-green-lighten-2{background:#81C784 !important;}
+.baz-green-lighten-1{background:#66BB6A !important;}
+.baz-green-darken-1{background:#43A047 !important;}
+.baz-green-darken-2{background:#388E3C !important;}
+.baz-green-darken-3{background:#2E7D32 !important;}
+.baz-green-darken-4{background:#1B5E20 !important;}
+.baz-green-accent-1{background:#B9F6CA !important;}
+.baz-green-accent-2{background:#69F0AE !important;}
+.baz-green-accent-3{background:#00E676 !important;}
+.baz-green-accent-4{background:#00C853 !important;}
+
+.baz-grey{background:#9E9E9E !important;}
+.baz-grey-lighten-5{background:#FAFAFA !important;}
+.baz-grey-lighten-4{background:#F5F5F5 !important;}
+.baz-grey-lighten-3{background:#EEEEEE !important;}
+.baz-grey-lighten-2{background:#E0E0E0 !important;}
+.baz-grey-lighten-1{background:#BDBDBD !important;}
+.baz-grey-darken-1{background:#757575 !important;}
+.baz-grey-darken-2{background:#616161 !important;}
+.baz-grey-darken-3{background:#424242 !important;}
+.baz-grey-darken-4{background:#212121 !important;}
+
+.baz-text-bold{-webkit-text-stroke-width: medium;}
+
+/**************************************
+ ** NATIVE COMPONENTS STYLE FOR DARK **            
+ **************************************/
+.scl-title-module{color:#53565A !important}
+.scl-title-dark-module{color:#f3f3f3 !important}
+
+/**Mensajes de error en formularios*/
+.v-messages.theme--dark.error--text{  
+  color: #f12e53 !important;
+}
+/**Datatables*/
+.theme--dark.v-data-table {
+  background: #272727 !important;
+}
+/**Inputs de texto*/
+.theme--dark.v-text-field > .v-input__control > .v-input__slot {
+  background: #383838 !important;
+}
+/**Inputs*
+.theme--dark.v-input.v-select > .v-input__control{
+  background: #383838 !important;
+}*/
+/**selects*/
+.theme--dark.v-select > .v-input__control > .v-input__slot {
+  background: #383838 !important;
+}
+/**lista que se despliega de un select class="v-menu__content theme--light v-menu__content--fixed menuable__content__active"*/
+.lista-desplegable .v-menu__content.theme--light{  
+  background: #53565A !important;
+}
+
+
+
+/***************
+ ** Modifiers **            ESTOS SON COPIA DEL CSS PROPIO DE SNOTIFY, USAR   '!important'   PARA SOBREESCRIBIR AL ESTILO CUSTOMIZADO
+ **************/
+.snotify-simple .snotifyToast__title,.snotify-simple .snotifyToast__body {
+   color: #000; 
+} 
+.snotifyToast__title {
+      font-size: 1.5em !important;
+      line-height: 1.2em;
+      margin-bottom: 5px;
+      color: #fff; 
+      font-weight: bold;
+}
+.snotifyToast__body {
+      font-size: 1.2em; 
+      font-weight: bold;
+}
+.snotify-success {background-color: rgb(79,173,47) !important;}
+.snotify-success .snotifyToast__progressBar {background-color: #388e3c;}
+.snotify-success .snotifyToast__progressBar__percentage{background-color: #81c784;}
+.snotify-success .snotifyToast__body {color: #ffffff !important;}
+ 
+.snotify-info {background-color: #1e88e5; }
+.snotify-info .snotifyToast__progressBar {background-color: #1565c0; }
+.snotify-info .snotifyToast__progressBar__percentage {background-color: #64b5f6; }
+.snotify-info .snotifyToast__body {color: #ffffff; }
+ 
+.snotify-warning {background-color: #ff9800; }
+.snotify-warning .snotifyToast__progressBar {background-color: #ef6c00; }
+.snotify-warning .snotifyToast__progressBar__percentage {background-color: #ffcc80; }
+.snotify-warning .snotifyToast__body {color: #fff3e0; }
+ 
+.snotify-error {background-color: rgb(200,13,58)!important; }
+.snotify-error .snotifyToast__progressBar {background-color: #970c0c !important; }
+.snotify-error .snotifyToast__progressBar__percentage {background-color: #ef9a9a; }
+.snotify-error .snotifyToast__body {color: #ffebee; }
+ 
+.snotify-async {background-color: #1e88e5; }
+.snotify-async .snotifyToast__progressBar {background-color: #1565c0; }
+.snotify-async .snotifyToast__progressBar__percentage {background-color: #64b5f6; }
+.snotify-async .snotifyToast__body {color: #e3f2fd; }
+ 
+.snotify-confirm {background-color: #009688; }
+.snotify-confirm .snotifyToast__progressBar {background-color: #4db6ac; }
+.snotify-confirm .snotifyToast__progressBar__percentage {background-color: #80cbc4; }
+.snotify-confirm .snotifyToast__body {color: #e0f2f1; }
+ 
+.snotify-prompt {background-color: #009688; }
+.snotify-prompt .snotifyToast__title {margin-bottom: 0; }
+.snotify-prompt .snotifyToast__body {color: #e0f2f1; }
+ 
+.snotify-confirm .snotifyToast__inner,
+.snotify-prompt .snotifyToast__inner {
+   padding: 10px 15px; }
+.snotifyToast__input__label {
+    display: inline-block;
+    float: right;
+    padding: 0 .85em;
+    width: 100%;
+    color: #e0f2f1;
+    font-weight: bold;
+    font-size: 70.25%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: absolute;
+    left: 0;
+    height: 100%;
+    text-align: left;
+    pointer-events: none; }
+    .snotify {
+        display: block;
+        position: fixed;
+        width: 340px !important;
+        z-index: 9999;
+        -webkit-box-sizing: border-box;
+        box-sizing: border-box;
+        pointer-events: none;
+    }
+
+    .snotify-leftTop,.snotify-centerTop,.snotify-rightTop{
+      margin-top: 80px !important;
+    }
+
+    /*tr:nth-child(even) {*/
+    /*    background-color: #FFFFFF;  E0E0E0*/
+    /*}*/
+
+    thead tr:only-child > th{
+        border-bottom: 4px solid #6ead3b !important;
+        font-size: 18px !important;
+    }
+
+    tbody tr:nth-child(odd){
+        background-color: #BDBDBD !important;
+        color: #000000;
+    }
