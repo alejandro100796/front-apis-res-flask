@@ -1,0 +1,10 @@
+{
+  "name": "longmusic",
+  "version": "1.0.0",
+  "description": "vue music",
+  "author": "wenhui4001@gmail.com",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm install express"
+  }
+}
