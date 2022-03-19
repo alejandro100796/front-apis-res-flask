@@ -8,8 +8,8 @@ const borara =  '/products'
 
 
 export default{    
-    obtenerProductos(){
-        return service.get(`${obtenerProductos}`)
+    async obtenerProductos(){
+        return await service.get(`${obtenerProductos}`)
     },
     obtnerProducto(id){
         return service.get(`${obtenerUnProdu}/${id}`)

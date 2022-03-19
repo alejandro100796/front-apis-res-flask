@@ -78,7 +78,7 @@ export default {
         
     },
 
-    mounted () {
+    created () {
         console.log('entro en la funcion')
        this.obtenerTodosProductos()
        

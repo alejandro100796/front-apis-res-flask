@@ -4,6 +4,7 @@ const productosService = ServiceFactory.get('productos')
 export async function obtenerTodosProductos(context){
     await productosService.obtenerProductos()
         .then(response => {
+            console.log('respuesta del metodo lista productos')
             console.log(response.data.products)
             context.commit('productos/setProductos', response.data.products, { root: true })
         }).catch(error => {
